@@ -20,3 +20,4 @@ primarily intended for future **crosware** consumption for running glibc binarie
 - crosstool-ng: https://github.com/crosstool-ng/crosstool-ng
 - crosware: https://github.com/ryanwoodsmall/crosware
 - musl-cross-make: https://github.com/richfelker/musl-cross-make
+- dockcross: https://github.com/dockcross/dockcross - LOTS of useful info for toolchain building/features/etc.
